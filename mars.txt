@@ -1,4 +1,4 @@
 Mars is red, my favorite color.
 TODO: find out how many planets it has!
 
-Cool.
+Mars looks cool from Venus.
