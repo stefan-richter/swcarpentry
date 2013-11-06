@@ -3,3 +3,6 @@ TODO: Find out which planets have usable moons.
 Mars has two: Phobos and Deimos
 Earth has one
 Jupiter has lots
+Saturn has something, too.
+
+Pluto's not a planet.
